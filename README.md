@@ -1,0 +1,1 @@
+This project classifies the comments made on movies using artificial neural networks to determine whether they contain positive, negative or neutral emotions. The model classifies movie reviews into three different categories. The model is trained using a ready-made data set and is applied on data obtained by web scraping method.
